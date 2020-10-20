@@ -4,7 +4,7 @@
 
 #svg-container{
     display: grid;
-    grid-template-columns: auto 50% auto;
+    grid-template-columns: auto 300px auto;
     grid-template-areas: ". svg .";
     >div{
         grid-area: svg;
